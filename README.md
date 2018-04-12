@@ -29,16 +29,17 @@
 ## 上海璇嘉信息技术有限公司 （ 2017年7月 ~ 至今 ）
 
 ### 以诺教育
-该项目是为诺亚集团开发的教育类网站以及小程序。
+项目背景：《以诺教育》是一个面向高净值人群的游学项目在线展示与报名应用。  
 我负责了这个项目的服务器环境搭建（nginx、php、mysql）、后台管理系统以及pc端和小程序端的api接口、定时任务和队列等。
-该项目后端使用laravel5.4。
-后台管理系统：
+该项目后端使用laravel5.4。  
+后台管理系统：  
 框架搭建、权限系统、优惠券、订单管理、课程管理、广告管理等
-api接口：
+api接口：  
 小程序支付、支付宝支付、退款接口等
 
 
 ### 无人值守超市
+项目背景：  
 搭建服务器环境、微信页面制作、后台管理系统以及后端接口开发，微信授权以及微信支付。
 该项目后端使用laravel5.4。
 硬件包括无人值守超市的人扫描器、自动门以及rfid扫描器等接口的对接。
@@ -89,11 +90,16 @@ gatewayclient：实现mvc和websocket的结合
 
 - Web开发：PHP、javascript、html
 - Web框架：ThinkPHP/Laravel
-- php相关扩展和类库：easywechat、workman、swoole、Laravel-Excel、Intervention/image、jwt-auth、dingoapi等
-- linux：nginx、php、mysql环境搭建以及配置，负载均衡以及服务器日常维护
+- php相关扩展或类库：easywechat、workman、swoole、Laravel-Excel、Intervention/image、jwt-auth、dingoapi等
+- linux：nginx、php、mysql环境搭建以及配置，负载均衡以及服务器日常维护。了解应用容器技术，使用 docker 搭建运行 lnmp 站点。
+  熟悉 linux 操作，掌握 linux 常用命令和服务、如 LA/NMP 环境搭建，
+  shell 脚本的编写、Vi/Vim 操作、定时任务 crontab 的编写、ab 测试
+  工具的使用。Python 能够熟练搭建运行环境，编写简单的系统脚本
 - 前端框架：jQuery/Bootstrap/AngularJS/ionic/vuejs
 - 前端常用库：echarts、layer、jquery-form、bootstrap-fileinput、bootstrap-validator
 - 前端工具：Bower/Gulp/PhoneGap/webpack
+- 前端性能优化：可以从多个方面去分析需要性能优化点，如 CDN、
+  HTTP 请求、JS/CSS 加载、DNS 解析等
 - 数据库相关：MySQL/PDO/redis
 - 版本管理、文档和自动化部署工具：Svn/Git/swagger/Composer
 - 云和开放平台：SAE/BAE/AWS/阿里云/腾讯云/微博开放平台/微信应用开发
