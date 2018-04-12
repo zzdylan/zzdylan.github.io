@@ -24,6 +24,27 @@
 
 ---
 
+# 技能清单
+
+以下均为我熟练使用的技能
+
+- Web开发：PHP、javascript、html
+- Web框架：ThinkPHP/Laravel
+- php相关扩展或类库：easywechat、workman、swoole、Laravel-Excel、Intervention/image、jwt-auth、dingoapi等
+- linux：nginx、php、mysql环境搭建以及配置，负载均衡以及服务器日常维护。了解应用容器技术，使用 docker 搭建运行 lnmp 站点。
+  熟悉 linux 操作，掌握 linux 常用命令和服务、如 LA/NMP 环境搭建，
+  shell 脚本的编写、Vi/Vim 操作、定时任务 crontab 的编写、ab 测试
+  工具的使用。Python 能够熟练搭建运行环境，编写简单的系统脚本
+- 前端框架：jQuery/Bootstrap/AngularJS/ionic/vuejs
+- 前端常用库：echarts、layer、jquery-form、bootstrap-fileinput、bootstrap-validator
+- 前端工具：Bower/Gulp/PhoneGap/webpack
+- 前端性能优化：可以从多个方面去分析需要性能优化点，如 CDN、
+  HTTP 请求、JS/CSS 加载、DNS 解析等
+- 数据库相关：MySQL/PDO/redis
+- 版本管理、文档和自动化部署工具：Svn/Git/swagger/Composer
+- 云和开放平台：SAE/BAE/AWS/阿里云/腾讯云/微博开放平台/微信应用开发
+
+
 # 工作经历
 
 ## 上海璇嘉信息技术有限公司 （ 2017年7月 ~ 至今 ）
@@ -88,25 +109,6 @@ gatewayclient：实现mvc和websocket的结合
 开发过多个后台管理系统之后，疲惫重复性的一些开发，于是便自己写了一个通用的基础后台管理系统，后端使用laravel5.4，前端使用adminlte，实现的功能有后台用户管理、角色管理、权限管理、菜单管理等，已经在多个项目中运用。现在准备继续写一个以composer扩展形式的laravel包，通过安composer装添加后台管理系统到现有的项目中。
 
 
-# 技能清单
-
-以下均为我熟练使用的技能
-
-- Web开发：PHP、javascript、html
-- Web框架：ThinkPHP/Laravel
-- php相关扩展或类库：easywechat、workman、swoole、Laravel-Excel、Intervention/image、jwt-auth、dingoapi等
-- linux：nginx、php、mysql环境搭建以及配置，负载均衡以及服务器日常维护。了解应用容器技术，使用 docker 搭建运行 lnmp 站点。
-  熟悉 linux 操作，掌握 linux 常用命令和服务、如 LA/NMP 环境搭建，
-  shell 脚本的编写、Vi/Vim 操作、定时任务 crontab 的编写、ab 测试
-  工具的使用。Python 能够熟练搭建运行环境，编写简单的系统脚本
-- 前端框架：jQuery/Bootstrap/AngularJS/ionic/vuejs
-- 前端常用库：echarts、layer、jquery-form、bootstrap-fileinput、bootstrap-validator
-- 前端工具：Bower/Gulp/PhoneGap/webpack
-- 前端性能优化：可以从多个方面去分析需要性能优化点，如 CDN、
-  HTTP 请求、JS/CSS 加载、DNS 解析等
-- 数据库相关：MySQL/PDO/redis
-- 版本管理、文档和自动化部署工具：Svn/Git/swagger/Composer
-- 云和开放平台：SAE/BAE/AWS/阿里云/腾讯云/微博开放平台/微信应用开发
 
 ## 自我评价
 
