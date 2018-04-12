@@ -28,8 +28,8 @@
 
 以下均为我熟练使用的技能
 
-- Web开发：PHP、javascript、html
-- Web框架：ThinkPHP/Laravel
+- 语言：PHP、JavaScript、HTML、Python、Java
+- Web：PHP、HTML、DIV+CSS3、jQuery、vuejs、AJAX、REST、Socket
 - php相关扩展或类库：easywechat、workman、swoole、Laravel-Excel、Intervention/image、jwt-auth、dingoapi等
 - linux：nginx、php、mysql环境搭建以及配置，负载均衡以及服务器日常维护。了解应用容器技术，使用 docker 搭建运行 lnmp 站点。
   熟悉 linux 操作，掌握 linux 常用命令和服务、如 LA/NMP 环境搭建，
