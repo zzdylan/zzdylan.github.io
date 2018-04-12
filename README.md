@@ -74,13 +74,13 @@ api接口：
 ## laravel5.5+workman+vue开发的聊天室项目：
 
 这个一个有趣的聊天室项目，使用workman来实现websocket，使用laravel做mvc后端，vue2做前端，用户可以注册、登陆、群聊等。
-用户注册成功后，会进入聊天室，这个时候会通过websocket请求服务端，服务器会分配一个唯一的client_id给客户端，这个时候需要将用户的uid和client_id绑定上，uid和client_id是一对多的关系，client_id的生命周期等于客户端和服务器的连接周期，当断开连接时，client_id便会失效。绑定成功以后、用户可以在聊天室中发文字或者图片，文字和图片的发送均通过ajax请求，响应成功后会通过workman的gatewayclient给客户端推送消息，以便让其他用户收到该用户发送的消息。本项目还对接了图灵机器人，当聊天室没啥人的时候，可以让图灵机器人陪别人解解闷。图灵机器人的消息使用队列发送。
-用到的组件有：
-qiniu-laravel-storage:七牛云存储的sdk
-jwt：使用json web token的方式授权
-intervention/image:对图片进行压缩处理
-gateway-worker：实现websocket
-gatewayclient：实现mvc和websocket的结合
+用户注册成功后，会进入聊天室，这个时候会通过websocket请求服务端，服务器会分配一个唯一的client_id给客户端，这个时候需要将用户的uid和client_id绑定上，uid和client_id是一对多的关系，client_id的生命周期等于客户端和服务器的连接周期，当断开连接时，client_id便会失效。绑定成功以后、用户可以在聊天室中发文字或者图片，文字和图片的发送均通过ajax请求，响应成功后会通过workman的gatewayclient给客户端推送消息，以便让其他用户收到该用户发送的消息。本项目还对接了图灵机器人，当聊天室没啥人的时候，可以让图灵机器人陪别人解解闷。图灵机器人的消息使用队列发送。  
+用到的组件有：  
+qiniu-laravel-storage:七牛云存储的sdk  
+jwt：使用json web token的方式授权  
+intervention/image:对图片进行压缩处理  
+gateway-worker：实现websocket  
+gatewayclient：实现mvc和websocket的结合  
 项目体验地址:[http://dev10.shareg.cn][1]
 
 ## 基础后台管理系统模板：
