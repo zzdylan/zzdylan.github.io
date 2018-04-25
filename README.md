@@ -15,7 +15,7 @@
  - 张震/男/1995
  - 专科/新华学院计算机系 
  - 工作年限：3年
- - 技术博客：http://www.51godream.com
+ - 技术博客：https://www.51godream.com
  - Github：https://github.com/zzDylan
 
  - 期望职位：PHP程序员
@@ -102,7 +102,7 @@ jwt：使用json web token的方式授权
 intervention/image:对图片进行压缩处理  
 gateway-worker：实现websocket  
 gatewayclient：实现mvc和websocket的结合  
-项目体验地址:[http://dev10.shareg.cn][1]
+项目体验地址:[http://chat.51godream.com][1]
 
 ## 基础后台管理系统模板：
 
@@ -127,4 +127,4 @@ gatewayclient：实现mvc和websocket的结合
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
 
-  [1]: http://dev10.shareg.cn
+  [1]: chat.51godream.com
