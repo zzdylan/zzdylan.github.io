@@ -19,7 +19,7 @@
  - Github：https://github.com/zzDylan
 
  - 期望职位：PHP程序员
- - 期望薪资：税前月薪15k~20k
+ - 期望薪资：税前月薪13k~18k
  - 期望城市：北京
 
 ---
