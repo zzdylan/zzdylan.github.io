@@ -102,7 +102,7 @@ jwt：使用json web token的方式授权
 intervention/image:对图片进行压缩处理  
 gateway-worker：实现websocket  
 gatewayclient：实现mvc和websocket的结合  
-项目体验地址:[http://chat.51godream.com][1]
+项目体验地址: [http://chat.51godream.com][1]
 
 ## 基础后台管理系统模板：
 
