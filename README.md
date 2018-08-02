@@ -34,7 +34,7 @@
 - linux：nginx、php、mysql环境搭建以及配置，负载均衡以及服务器日常维护。了解应用容器技术，使用 docker 搭建运行 lnmp 站点。
   熟悉 linux 操作，掌握 linux 常用命令和服务、如 LA/NMP 环境搭建，
   shell 脚本的编写、Vi/Vim 操作、定时任务 crontab 的编写、ab 测试
-  工具的使用。Python 能够熟练搭建运行环境，编写简单的系统脚本
+  工具的使用。使用Python编写过很多爬虫，如12306、qq空间说说的爬取，以及将爬虫和qq或者微信机器人对接，实现将爬取到的数据反馈给微信或者qq。
 - 前端框架：jQuery/Bootstrap/AngularJS/ionic/vuejs
 - 前端常用库：echarts、layer、jquery-form、bootstrap-fileinput、bootstrap-validator
 - 前端工具：Bower/Gulp/PhoneGap/webpack
