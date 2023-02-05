@@ -15,7 +15,7 @@
  - 张震/男/1995
  - 专科/安徽合肥新华学院计算机系
  - 工作年限：7年
- - 技术博客：https://www.51godream.com
+ - 技术博客：https://www.cnblogs.com/zzdylan
  - Github：https://github.com/zzDylan
 
  - 期望职位：PHP程序员
