@@ -19,7 +19,7 @@
  - Github：https://github.com/zzDylan
 
  - 期望职位：PHP程序员
- - 期望薪资：月薪12k~14k
+ - 期望薪资：月薪13k~15k
  - 期望城市：合肥
 
 ---
