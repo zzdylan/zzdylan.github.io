@@ -16,7 +16,7 @@
  - 专科/安徽合肥新华学院计算机系
  - 工作年限：7年
  - 技术博客：https://www.cnblogs.com/zzdylan
- - Github：https://github.com/zzDylan
+ - Github：https://github.com/lvmoss
 
  - 期望职位：PHP程序员
  - 期望薪资：月薪13k~15k
@@ -46,6 +46,13 @@
 
 
 # 工作经历
+
+## 自由职业（2022年6月 ~ 至今）
+
+### AI篇
+项目背景：前几个月chatgpt爆火，我也加入了研究chatgpt的潮流，研究chatgpt的过程中又接触到了midjourney和stable diffiusion，为了对收费昂贵的midjourney和对硬件要求比较高的免费stable diffiusion有更好的对比，我还专门买了一张4090的显卡用来对图片有更好的训练效果。midjourney相对于大众来说比较容易使用，出图效果也很棒，不过月费太贵（当时我续费了3个月用来体验）。后来去研究了免费的stable diffiusion，当时写了一些博客用来记录当时复杂繁琐的环境问题（博客地址:https://blog.51godream.com）,其实stable diffiusion如果在模型选择或者参数上配置的没问题，出图效果还是非常完美的，也不比midjourney差，就是比较烧硬件。
+曾经我想用他们来出产品展示图，但是很难，因为他们出的图基本都是独一无二的，具有创新意义的图片，所以你很难用它在你已经有的产品图上做一些修改，总会有一些缺陷。
+后来结合了chatgpt的api以及stable diffiusion的一些api做了一个微信机器人，可以在微信中直接和chatgpt对话，也可以根据一些提示词直接在微信中生成你想要的图片。
 
 ## 小狮子严选 （ 2020年12月 ~ 2022年6月 ）
 ### 抖音无人值守打印机
