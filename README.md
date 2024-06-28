@@ -17,11 +17,11 @@
   
 - 技术博客：https://blog.51godream.com
   
-- Github：https://github.com/lvmoss
+- Github：https://github.com/zzdylan
   
 - 期望职位：PHP程序员
   
-- 期望薪资：月薪15k
+- 期望薪资：月薪13k~15k
   
 - 期望城市：合肥
   
@@ -49,6 +49,45 @@
 - 云和开放平台：SAE/BAE/AWS/阿里云/腾讯云/微博开放平台/微信应用开发
 
 # 工作经历
+
+## ins引流管理系统
+
+项目背景：之前在研究引流的时候看到了一家汉武公司的产品，当时跟朋友一起去武汉参观这家公司以及了解这个引流产品，他们公司有ins、tiktok、fackbook这些平台的群发广告和拉群引流，在那边销售介绍了解了他们产品之后，我一个人做开发，在1个半月之内完美复刻出了这个ins产品（精力有限只做了ins，没有做tk和fb）
+
+后台管理系统使用thinkphp和vuejs，任务处理使用golang，使用rabbitmq做队列，php作为生产者，golang作为消费者。
+
+模块如下
+
+- 个人资料
+  
+- 账号分组
+  
+- 账号管理
+  
+- 采集任务
+  
+- 采集数据
+  
+- 发送私信
+  
+- 拉群消息
+  
+- 广告管理
+  
+- 任务日志
+  
+
+大致功能是，可以直接在后台精准采集某个ins博主的指定数量的粉丝，采集完毕之后，可以给这些粉丝发送广告或者拉群发消息，客户需要自己购买代理和ins小号，每个ins小号会给多个粉丝发送广告或者拉群发送，广告可以附带链接和图片。
+
+![图片3](https://s2.loli.net/2024/06/29/rVQWqaiZshwgcyT.png)
+
+![图片](https://s2.loli.net/2024/06/29/MvxSsdiVkNILe6Y.png)
+
+![GitHub Logo](https://s2.loli.net/2024/06/29/acJNHhPfXYT8WA3.png)
+
+![GitHub Logo](https://s2.loli.net/2024/06/29/YRNFH1TSJnex32b.png)
+
+正如上一个刷课项目，这个项目同样使用了github.com/panjf2000/ants/v2来管理协程，github.com/go-resty/resty/v2作为请求库，上一个项目自己把go项目目录封装成了类似laravel那样的，但是后来发现已经有大佬维护了几年的一个项目[GitHub - goravel/goravel: A Golang framework for web artisans. Tribute to Laravel.](https://github.com/goravel/goravel)，确实跟laravel一样优雅，所以在这个项目中直接使用了goravel作为golang的框架，laravel的大多数功能它都有，那我也就不用重复造轮子了。
 
 ## 西工大教育刷课系统
 
