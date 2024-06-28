@@ -54,9 +54,9 @@
 
 项目背景：大学持续到现在一直有稳定收益的业余项目，最最开始是用php脚本做的，后来做了小超能机器人之后学习了易语言（很久之前），使用了易语言的方式，再后来因为想在实战中学习golang，并且go在多任务处理上有明显的优势，选用了新的技术方案wails来写桌面应用，也就是用vuejs来写ui，go用来写后端逻辑，因为之前php使用laravel比较多，我还封装了golang的一些常用组件，把项目的目录处理成跟laravel一样优雅。
 
-![GitHub Logo](https://raw.githubusercontent.com/zzdylan/zzdylan.github.io/0e04dfcd15852569105b44b0c10b75b9b595cd35/images/1.png?token=GHSAT0AAAAAACUDZOG5AEC4MIZ3VMYU3WBEZT7EOZA)
+![图片1](https://s2.loli.net/2024/06/29/84vxsNeYTIahU1V.png)
 
-![GitHub Logo](https://raw.githubusercontent.com/zzdylan/zzdylan.github.io/0e04dfcd15852569105b44b0c10b75b9b595cd35/images/2.png?token=GHSAT0AAAAAACUDZOG5DKVLG7OJZHL4VSWIZT7EP5A)
+![图片2](https://s2.loli.net/2024/06/29/qUYGCsSkV3LFDcI.png)
 
 可以批量进行学习登录、章节测试、视频学习、论坛得分。
 
